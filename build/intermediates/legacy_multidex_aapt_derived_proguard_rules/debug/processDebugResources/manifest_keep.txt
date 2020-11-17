@@ -1,0 +1,2 @@
+# Referenced at C:\Users\15755\Desktop\MyApplication\SmartTraffic-xhl\build\intermediates\merged_manifests\debug\AndroidManifest.xml:36
+-keep class com.lenovo.smarttraffic.InitApp { <init>(); }
